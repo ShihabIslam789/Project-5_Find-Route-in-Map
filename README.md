@@ -5,5 +5,4 @@
 
 # Project Premise
 This project contains a map that is traversed from one location to another. But maps contain many points all around connecting to each other. <br>
-Using the Stack we must get from one point on a map to another without violating the pathways or roads that connect from one point to another <br>
-on the roadmap.
+Using the Stack we must get from one point on a map to another without violating the pathways or roads that connect from one point to another on the roadmap.
